@@ -19,6 +19,7 @@ output*.jpg
 *.tif
 *.tiff
 *.pim
+!fvfmR/inst/extdata/*.pim
 
 # Archives
 *.zip
